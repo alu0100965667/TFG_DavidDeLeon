@@ -23,3 +23,9 @@ Los métodos que implementan la fase de mejora o búsqueda local son los siguien
 * ```localSearchMultiObjectiveFirst2()```: implementa la búsqueda local multiobjetivo de primer vecino 
 
 Las soluciones a las que llega la ejecución de la fase de construcción seguida por la de mejora se almacenan en el atributo ```allSolutions```. La mejor solución encontrada se almacena en ```bestSolution```.
+
+## Resultados obtenidos e instancias utilizada
+
+Los archivos .csv que contienen los resultados de la ejecución de los algoritmos que se utilizaron para las gráficas de la memoria se encuentran en la carpeta ```results```.
+
+Las instancias que se utilizaron para dichas ejecuciones se encuentran en la carpeta ```instances``` como directorios que contienen una serie de archivos ```.subject``` determinados.
